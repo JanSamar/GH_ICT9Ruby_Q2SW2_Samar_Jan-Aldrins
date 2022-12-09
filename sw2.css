@@ -1,0 +1,51 @@
+		.class1 {
+			font-family: Times New Roman;
+			color: white;
+			text-align: center;
+		}
+		#title {
+			font-family: Arial;
+			font-size: 48;
+			text-transform: capitalize;
+			letter-spacing: 3;
+			color: white;
+			text-shadow: 3px 2px 4px yellow;
+			border-style: outset;
+			border-width: 10px;
+			border-color: lightcyan;
+			padding: 1%;
+
+		}
+		#fontname {
+			font-family: Broadway;
+		}
+		body {
+			background-image:url(https://media.istockphoto.com/id/1291417740/vector/realistic-night-sky-and-stars-illustration-of-outer-space.jpg?s=612x612&w=0&k=20&c=-U9f_n9G6Y52amxdQOdiTAbHxdBTs5R7MdYZc-pq01k= );
+			background-repeat: no-repeat;
+			background-size: 150%;
+		}
+		#title2 {
+			background-color: Blue;
+			text-align: center;
+			font-size: 24;
+		}
+		#reference {
+			background-color: silver;
+		}
+		#comment {
+			color: lightcyan;
+		}
+
+		textarea{
+			color: lightcyan;
+			font-size: 20px;
+			font-family: Arial;
+			background-image: url(https://media.istockphoto.com/id/1291417740/vector/realistic-night-sky-and-stars-illustration-of-outer-space.jpg?s=612x612&w=0&k=20&c=-U9f_n9G6Y52amxdQOdiTAbHxdBTs5R7MdYZc-pq01k=);
+			background-repeat: no-repeat;
+			background-size: 100%;
+			padding: 1%;
+		}
+		input{
+			font-size: 25px;
+			font-family: Arial;
+		}
